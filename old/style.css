@@ -1,0 +1,26 @@
+#title {
+text-shadow: 4px 3px 0 #2f8f8f, 2px 2px 2px
+rgba(36,140,208,0);
+color: #000000;}
+
+
+#demoObject {
+	-webkit-box-shadow: 8px 0px 0px 0px #2f8f8f, 0px 8px 0px 0px #2f8f8f, -8px 0px 0px 0px #2f8f8f, 0px 0px 0px 8px #2f8f8f, 5px 5px 15px 5px rgba(0,0,0,0); 
+	box-shadow: 8px 0px 0px 0px #2f8f8f, 0px 8px 0px 0px #2f8f8f, -8px 0px 0px 0px #2f8f8f, 0px 0px 0px 8px #2f8f8f, 5px 5px 15px 5px rgba(0,0,0,0);
+	background: #DarkSlateGray;
+float:left;
+}
+body#tinymce {
+	background: #FFFFFF
+}
+
+body {background-color: #1B4F72;
+color: #008978;
+}
+a:link { 
+color: #2f8f8f;
+}
+
+a:visited {
+color: #2f8f8f;
+}

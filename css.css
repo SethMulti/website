@@ -1,0 +1,55 @@
+html {
+	background-color: black;
+}
+
+#container {
+	width: 800px;
+	background-color: #687984;
+	min-height: 650px;
+	margin: auto;
+}
+
+#titlebar {
+	height: 48px;
+	width: 800px;
+}
+
+#logo {
+	width: 750px;
+	float: left;
+	
+}
+
+.picright{
+	float: left;
+	margin: 10px;
+}
+
+#content {
+	margin-left: 16px;
+	margin-right: 360px;
+	margin-top: 0px;
+	width: 440px;
+	font-family: cooper;
+}
+
+.red {
+	color: #eb606b;
+}
+
+.blue {
+	color: #7dc6bf;
+}
+
+.green {
+	color: #c3e88d;
+	text-decoration: none;
+}
+
+#sidepanel {
+	top: 0;
+	margin: 0px;
+	float: right;
+	width: 300px;
+	font-family: cooper;
+}
